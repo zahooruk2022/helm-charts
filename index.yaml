@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  node-server:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-07-23T23:08:31.432141453Z"
+    description: A Helm chart for Kubernetes
+    digest: 5f4d84bf7ac08d42bbd656bc970d1bb749cb64631af420dccd064f702505f15b
+    name: node-server
+    type: application
+    urls:
+    - https://github.com/zahooruk2022/helm-charts/releases/download/node-server-0.1.0/node-server-0.1.0.tgz
+    version: 0.1.0
   nodejs-server:
   - apiVersion: v2
     appVersion: 14.21.3
@@ -21,4 +32,4 @@ entries:
     urls:
     - https://github.com/zahooruk2022/helm-charts/releases/download/nodejs-server-0.1.0/nodejs-server-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-23T22:52:02.837716346Z"
+generated: "2024-07-23T23:08:31.432156401Z"
